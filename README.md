@@ -15,4 +15,3 @@ I'm an **Economics Student** & **Aspiring Data Analyst** bridging the gap betwee
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-Visitor count badge (isteğe bağlı, şimdilik gerek yok)
